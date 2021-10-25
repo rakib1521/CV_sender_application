@@ -13,7 +13,7 @@ This is an app which going to send your CV with cover letter to given receiver e
 
 mail_body.txt will work as the cover letter , keeping first line unchnaged , cover letter can be changed.
 
-#You must allow less secure app access from your Gmail address.
+**You must allow less secure app access from your Gmail address.**
 
 ![image](Images/three.png) 
 
