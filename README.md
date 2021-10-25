@@ -15,12 +15,12 @@ mail_body.txt will work as the cover letter , keeping first line unchnaged , cov
 
 #You must allow less secure app access from your Gmail address.
 
-![image](images/three.png) 
+![image](Images/three.png) 
 
 
 
 ### Docs Image:
-1. ![image](images/app.JPG)  
+1. ![image](Images/app.JPG)  
 
 
 ### Technologies used
